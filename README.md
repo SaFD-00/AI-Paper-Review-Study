@@ -23,7 +23,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 <a id="ch2"><h3>🍆 진행</h3></a>
 <hr>
 <p>
-  <li>매주 일요일, 세부사항은 아래 일정 참고</li>
+  <li>매주 일요일, 세부사항은 아래 <a href="#ch5">일정</a> 참고</li>
   <li>매주 2편의 논문 리뷰와 실습</li><br>
   
   <li><strong>[1월] </strong>Computer Vison</li>
