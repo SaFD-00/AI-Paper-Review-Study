@@ -15,12 +15,19 @@
 <a id="ch1"><h3>👾 소개</h3></a>
 <hr>
 OUTTA 논문 리뷰 스터디 1팀입니다.<br>
-Computer Vision, NLP, Serial Forecasting, etc. 분야의 논문을 리뷰합니다.
+Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의 논문을 리뷰합니다.
 <br><br>
 
 
 <a id="ch2"><h3>🍆 진행</h3></a>
 <hr>
+<p>
+  <li>매주 일요일, 세부사항은 아래 일정 참고</li>
+  <li>매주 2편의 논문 리뷰와 실습(PyTorch)</li>
+  <li><strong>(발표 전)</strong> 발표자는 해당 주 수요일까지 논문 선정 후 단톡방에 공지, 발표자를 제외한 인원은 발표 당일까지 해당 논문의 간단한 예습</li>
+  <li><strong>(발표)</strong> 간단한 예습, 2편의 논문과 실습(PyTorch)</li>
+  <li><strong>(발표 후)</strong> 발표자는 단톡방에 발표자료와 기술블로그를 공유</li>
+ </p>
 <br><br>
 
 
