@@ -41,7 +41,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch3"><h3>🍠 참고자료</h3></a>
 <hr>
-<h3><strong>논문</strong></h3>
+<h3><strong>(1) 논문</strong></h3>
 <p>아래와 같은 사이트에 task를 검색해서 논문을 검색해 보셔도 괜찮고,<br>
   구글에서 먼저 task를 검색한 후 키워드를 잡아서 논문을 검색해보셔도 괜찮을 것 같습니다.</p>
   
@@ -59,7 +59,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
   <li><a href="https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap">논문 모음집 4</a>
 
   <br>
-  <h3><strong>기술블로그</strong></h3>
+  <h3><strong>(2) 기술블로그</strong></h3>
   <li><a href="https://lsjsj92.tistory.com/640">참고 1</a>
   <li><a href="https://mizzlena.tistory.com/47">참고 2</a>
   <li><a href="https://gbdai.tistory.com/46">참고 3</a>
