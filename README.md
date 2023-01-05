@@ -1,4 +1,4 @@
-<h1>OUTTA_Paper_Review_Study</h1>
+<h1>OUTTA Paper Review Study</h1>
 <h4>We Review Various Papers about Deep Learning</h4>
 
 <h3>🏃‍♂️ 목차</h3>
@@ -23,10 +23,12 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 <hr>
 <p>
   <li>매주 일요일, 세부사항은 아래 일정 참고</li>
-  <li>매주 2편의 논문 리뷰와 실습(PyTorch)</li>
-  <li><strong>(발표 전)</strong> 발표자는 해당 주 수요일까지 논문 선정 후 단톡방에 공지, 발표자를 제외한 인원은 발표 당일까지 해당 논문의 간단한 예습</li>
-  <li><strong>(발표)</strong> 간단한 예습, 2편의 논문과 실습(PyTorch)</li>
-  <li><strong>(발표 후)</strong> 발표자는 단톡방에 발표자료와 기술블로그를 공유</li>
+  <li>매주 2편의 논문 리뷰와 실습</li>
+  <li><strong>[발표 전]</strong><br>
+    (발표자) 해당 주 수요일까지 논문 선정 후 단톡방에 공지<br>
+    (발표자 제외) 발표 당일까지 해당 논문의 간단한 예습</li>
+  <li><strong>[발표 후]</strong><br>
+    (발표자) 단톡방에 발표자료와 기술블로그를 공유</li>
  </p>
 <br><br>
 
