@@ -31,8 +31,8 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
   <li><strong>[3월] </strong>Machine Learing(전처리)</li><br>
   
   <li><strong>[발표 전]</strong><br>
-    &nbsp; &nbsp; &nbsp; &nbsp; (발표자) 발표주 수요일까지 논문 선정 후 단톡방에 공지<br>
-    &nbsp; &nbsp; &nbsp; &nbsp; (발표자 제외) 발표 당일까지 해당 논문의 간단한 예습</li>
+    &nbsp; &nbsp; &nbsp; &nbsp; (발표자) 발표주 금요일까지 논문 선정 후, 단톡방에 공지<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; (발표자 제외) 발표 당일까지, 해당 논문의 간단한 예습</li>
   <li><strong>[발표 후]</strong><br>
     &nbsp; &nbsp; &nbsp; &nbsp;(발표자) 단톡방에 발표자료와 기술블로그를 공유</li>
  </p>
