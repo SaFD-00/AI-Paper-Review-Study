@@ -23,7 +23,12 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 <hr>
 <p>
   <li>매주 일요일, 세부사항은 아래 일정 참고</li>
-  <li>매주 2편의 논문 리뷰와 실습</li>
+  <li>매주 2편의 논문 리뷰와 실습</li><br>
+  
+  <li><strong>[1월] </strong>Computer Vison</li>
+  <li><strong>[2월] </strong>NLP</li>
+  <li><strong>[3월] </strong>Machine Learing(전처리)</li><br>
+  
   <li><strong>[발표 전]</strong><br>
     (발표자) 해당 주 수요일까지 논문 선정 후 단톡방에 공지<br>
     (발표자 제외) 발표 당일까지 해당 논문의 간단한 예습</li>
