@@ -1,5 +1,6 @@
-<h1>OUTTA Paper Review Study</h1>
-<h4>We Review Various Papers about Deep Learning</h4>
+![OUTTA Paper Review Study](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OUTTA%20Paper%20Review%20Study&height=150&fontSize=60&desc=We%20Review%20Various%20Papers%20about%20Deep%20Learning&descAlignY=76&descAlign=50)  
+<br>
+
 
 <h3>🏃‍♂️ 목차</h3>
 <hr>
@@ -40,17 +41,27 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch3"><h3>🍠 참고자료</h3></a>
 <hr>
+<h4><strong>논문</strong></h4>
+아래와 같은 사이트에 task를 검색해서 논문을 검색해 보셔도 괜찮고, 구글에서 먼저 task를 검색한 후 키워드를 잡아서 논문을 검색해보셔도 괜찮을 것 같습니다.
+- [학술검색 1](https://github.com/WittmannF/sort-google-scholar)  
+- [학술검색 2](https://dblp.org/)
+- [학술검색 3](http://www.riss.kr/index.do)
 
+<br>
+- [논문 읽는 방법](https://facerain.club/how-to-read-paper-andrew )  
+- [논문 유튜브](https://youtube.com/c/dongbinna )
 
-학술검색
-디스틸
-딥러닝 논문+코드+데이터
-논문 읽는 방법에 대한 포스팅
-딥러닝 논문 모음집 1
-딥러닝 논문 모음집 2
-딥러닝 논문 모음집 3
-딥러닝 논문 모음집 4
-논문 유튜브
+<br>
+- [딥러닝 논문 모음집 1](https://github.com/terryum/awesome-deep-learning-papers)  
+- [딥러닝 논문 모음집 2](https://www.notion.so/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd )  
+- [딥러닝 논문 모음집 3](https://pouncing-healer-4e5.notion.site/c720d1c861594747bad3e2077ef47c6e?v=9bd86147ada741b68f3871651d48107d )  
+- [딥러닝 논문 모음집 4](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap )
+
+<br>
+<h4><strong>기술블로그</strong></h4>
+- [참고 1](https://lsjsj92.tistory.com/640)
+- [참고 2](https://mizzlena.tistory.com/47)
+- [참고 3](https://gbdai.tistory.com/46)
 <br><br>
 
 
