@@ -74,7 +74,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
     <tr>
     </tr>
     <tr height="200px">
-    <td align="center"><a href="https://github.com/SaFD-00"><img src="https://avatars.githubusercontent.com/u/102352334?v=4" width="150px;" alt="백승우"/><br /><sub><b>백승우</b><br />
+    <td align="center"><a href="https://github.com/SaFD-00"><img src="https://avatars.githubusercontent.com/u/92355913?v=4" width="150px;" alt="백승우"/><br /><sub><b>백승우</b><br />
 		</td>
   	<td align="center"><a href="https://github.com/jennyohyj"><img src="https://avatars.githubusercontent.com/u/98837259?v=4" width="150px;" alt="오연재"/><br /><sub><b>오연재</b><br />
 		</td>
