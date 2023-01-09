@@ -88,7 +88,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
     <hr>
 | 주  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 0   | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "ImageNet Classification with Deep Convolutional Neural Network"](Jan_8/Imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
+| 0   | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "ImageNet Classification with Deep Convolutional Neural Network"](Jan_8/Imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)[발표자료](Jan_8/ImageNet Classification with Deep Convolutional Neural Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
 | 1   | 2023년 1월 15일 | 신촌 시간공방 |||  
 | 2   | TBA           ||||
 | 3   | TBA           ||||  
