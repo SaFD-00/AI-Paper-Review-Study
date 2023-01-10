@@ -82,7 +82,8 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 		</td>
   <td align="center"><a href="https://github.com/hyeonsieun"><img src="https://avatars.githubusercontent.com/u/104483213?v=4" width="150px;" alt=""/><br /><sub><b>현시은</b><br />
 	</td>
-
+	</tbody>
+</table>
 <br><br>
 
 
