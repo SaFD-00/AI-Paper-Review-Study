@@ -71,7 +71,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 | 3 | 2022년 1월 7일 | ZOOM<br>강남역 스페이스101 | [한나경 : "You Only Look Once"](2023_01_07/You_Only_Look_Once.pdf)<br> [장형원 : "Auto-Encoding Variational Bayes"](2023_01_07/Auto-Encoding_Variational_Bayes.pdf) | 
 | 4 | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "ImageNet Classification with Deep Convolutional Neural Network"](2023_01_08/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](2023_01_08/Faster_R-CNN.pdf)|  
 | 5 | 2023년 1월 15일 | ZOOM |[이세라 : "Task Agnostic and post-hoc unseen Distribution Detection"](2023_01_15/Task%20Agnostic%20and%20post-hoc%20unseen%20Distribution%20Detection.pdf)||  
-| 6 | 2022년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](Jan_19/Fundametals_Of_NLP.pptx)<br> [황주훈 : "RNN LSTM GRU"](Jan_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need](Jan_19/Attention_Is_All_You_Need.pptx) | 
+| 6 | 2022년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](2023_01_19/Fundametals_Of_NLP.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need](2023_01_19/Attention_Is_All_You_Need.pdf) | 
 
 <br><br>
 
