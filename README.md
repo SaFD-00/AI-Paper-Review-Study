@@ -63,7 +63,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch5"><h3>📆 일정</h3></a>
     <hr>
-| 주  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
+| 순번  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 | 1   | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "Task Agnostic and post-hoc unseen Distribution Detection"](https://github.com/SaFD-00/OUTTA-Paper-Review-Study/blob/main/Jan_8/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
 | 2   | 2023년 1월 15일 | ZOOM |[이세라 : "ImageNet Classification with Deep Convolutional Neural Network"](https://github.com/SaFD-00/OUTTA-Paper-Review-Study/blob/main/Jan_15/Task%20Agnostic%20and%20post-hoc%20unseen%20Distribution%20Detection.pdf)||  
