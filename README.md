@@ -65,16 +65,16 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
     <hr>
 | 순번  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 0 | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](2022_11_20/Understanding_Graph_Neural_Network.pdf) | 
-| 1 | 2022년 11월 27일 | 연세대학교 학생회관 313호 | [이동훈 : "Deep Residual Learning for Image Recognition"](2022_11_27/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)<br> [황주훈 : "Generative Adversarial Networks"](2022_11_27/GAN.pdf) | Study/blob/main/Jan_8/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
-| 2 | 2022년 12월 4일 | ZOOM | [제갈민 : "Various Clustering Methods"](2022_12_04/Various_Clustreing_Methods.pdf)<br> [권범윤 : "U-Net : Convolutional Networks for Biomedical Image Segmentation"](2022_12_04/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf) | 
-| 3 | 2023년 1월 7일 | ZOOM<br>강남역 스페이스101 | [한나경 : "You Only Look Once"](2023_01_07/You_Only_Look_Once.pdf)<br> [장형원 : "Auto-Encoding Variational Bayes"](2023_01_07/Auto-Encoding_Variational_Bayes.pdf) | 
-| 4 | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "ImageNet Classification with Deep Convolutional Neural Network"](2023_01_08/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](2023_01_08/Faster_R-CNN.pdf)|  
-| 5 | 2023년 1월 15일 | ZOOM |[이세라 : "Task Agnostic and post-hoc unseen Distribution Detection"](2023_01_15/Task%20Agnostic%20and%20post-hoc%20unseen%20Distribution%20Detection.pdf)||  
-| 6 | 2023년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](2023_01_19/Fundametals_Of_NLP.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need](2023_01_19/Attention_Is_All_You_Need.pdf) | 
-| 7 | 2023년 2월 12일 | ZOOM | [최민동 : "GPT"](2023_02_12/language_understanding_paper.pdf) <br> [한나경 : "BERT"](2023_02_12/BERT.pdf)| 
-| 8 | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E"](2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
-| 9 | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf) <br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
+| 0  | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](2022_11_20/Understanding_Graph_Neural_Network.pdf) | 
+| 1  | 2022년 11월 27일 | 연세대학교 학생회관 313호 | [이동훈 : "Deep Residual Learning for Image Recognition"](2022_11_27/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)<br> [황주훈 : "Generative Adversarial Networks"](2022_11_27/GAN.pdf) | Study/blob/main/Jan_8/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
+| 2  | 2022년 12월 4일 | ZOOM | [제갈민 : "Various Clustering Methods"](2022_12_04/Various_Clustreing_Methods.pdf)<br> [권범윤 : "U-Net : Convolutional Networks for Biomedical Image Segmentation"](2022_12_04/U_Net_Convolutional_Networks_for_Biomedical_Image_Segmentation.pdf) | 
+| 3  | 2023년 1월 7일 | ZOOM<br>강남역 스페이스101 | [한나경 : "You Only Look Once"](2023_01_07/You_Only_Look_Once.pdf)<br> [장형원 : "Auto-Encoding Variational Bayes"](2023_01_07/Auto-Encoding_Variational_Bayes.pdf) | 
+| 4  | 2023년 1월 8일 | 신촌 시간공방 | [백승우 : "ImageNet Classification with Deep Convolutional Neural Network"](2023_01_08/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](2023_01_08/Faster_R-CNN.pdf)|  
+| 5  | 2023년 1월 15일 | ZOOM |[이세라 : "Task Agnostic and post-hoc unseen Distribution Detection"](2023_01_15/Task%20Agnostic%20and%20post-hoc%20unseen%20Distribution%20Detection.pdf)||  
+| 6  | 2023년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](2023_01_19/Fundametals_Of_NLP.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need](2023_01_19/Attention_Is_All_You_Need.pdf) | 
+| 7  | 2023년 2월 12일 | ZOOM | [최민동 : "GPT"](2023_02_12/language_understanding_paper.pdf) <br> [한나경 : "BERT"](2023_02_12/BERT.pdf)| 
+| 8  | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E"](2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
+| 9  | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf) <br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
 
 <br><br>
 
