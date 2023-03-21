@@ -63,7 +63,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch5"><h3>📆 일정</h3></a>
     <hr>
-|  순번  | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
+|   순번   | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 |  0  | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](2022_11_20/Understanding_Graph_Neural_Network.pdf) | 
 |  1  | 2022년 11월 27일 | 연세대학교 학생회관 313호 | [이동훈 : "Deep Residual Learning for Image Recognition"](2022_11_27/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)<br> [황주훈 : "Generative Adversarial Networks"](2022_11_27/GAN.pdf) | Study/blob/main/Jan_8/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Network.pdf) <br> [현시은 : "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks"](Jan_8/Faster_R-CNN.pdf)|  
