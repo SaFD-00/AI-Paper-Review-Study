@@ -73,7 +73,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 | 5 | 2023년 1월 15일 | ZOOM |[이세라 : "Task Agnostic and post-hoc unseen Distribution Detection"](2023_01_15/Task%20Agnostic%20and%20post-hoc%20unseen%20Distribution%20Detection.pdf)||  
 | 6 | 2023년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](2023_01_19/Fundametals_Of_NLP.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need](2023_01_19/Attention_Is_All_You_Need.pdf) | 
 | 7 | 2023년 2월 12일 | ZOOM | [권범윤 : "BERT"](2023_02_12/BERT.pdf)<br> [황주훈 : "Improving Language Understanding by Generative Pre-Training"](2023_02_12/language_understanding_paper.pdf) | 
-| 8 | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E")(2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
+| 8 | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E"](2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
 | 9 | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
 
 <br><br>
