@@ -76,7 +76,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 |  08  | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E"](2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
 |  09  | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf) <br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
 |  10  | 2023년 3월 23일 | ZOOM | [김기용 : "DDPM"](2023_03_23/DDPM.pdf) <br> [정인용 : "UniMed : Multimodal Multitask Learning for Medical Predictions"](2023_03_23/UniMed_Multimodal_Multitask_Learning_for_Medical_Predictions.pdf) | 
-|  11  | 2023년 3월 29일 | ZOOM |  | 
+|  11  | 2023년 3월 31일 | ZOOM |  | 
 
 <br><br>
 
