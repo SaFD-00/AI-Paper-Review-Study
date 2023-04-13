@@ -7,8 +7,8 @@
 <a href="#ch1">1) 소개</a><br>
 <a href="#ch2">2) 진행</a><br>
 <a href="#ch3">3) 참고자료</a><br>
-<a href="#ch5">5) 공지사항</a><br>
-<a href="#ch6">6) 일정</a>
+<a href="#ch5">4) 공지사항</a><br>
+<a href="#ch6">5) 일정</a>
 <br><br><br>
 
 
