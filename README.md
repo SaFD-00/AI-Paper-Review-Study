@@ -7,9 +7,9 @@
 <a href="#ch1">1) 소개</a><br>
 <a href="#ch2">2) 진행</a><br>
 <a href="#ch3">3) 참고자료</a><br>
-<a href="#ch5">4) 일정</a><br>
-<a href="#ch6">5) 공지사항</a>
-<br><br>
+<a href="#ch5">5) 공지사항</a><br>
+<a href="#ch6">6) 일정</a>
+<br><br><br>
 
 
 <a id="ch1"><h3>👾 소개</h3></a>
@@ -18,7 +18,7 @@ OUTTA 논문 리뷰 스터디입니다.<br><br>
 2022-2분기 [2022-11 ~ 2023-02] <br>
 2023-1분기 [2023-03 ~ ] <br><br>
 Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의 논문을 리뷰합니다.
-<br><br>
+<br><br><br>
 
 
 <a id="ch2"><h3>🍆 진행</h3></a>
@@ -60,10 +60,16 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
   <li><a href="https://lsjsj92.tistory.com/640">참고 1</a>
   <li><a href="https://mizzlena.tistory.com/47">참고 2</a>
   <li><a href="https://gbdai.tistory.com/46">참고 3</a>
-<br><br>
+<br><br><br>
 
 
-<a id="ch5"><h3>📆 일정</h3></a>
+<a id="ch5"><h3>📣 공지사항</h3></a>
+<hr>
+시험기간으로 인해, 4월 마지막 주부터 재개할 예정입니다.
+<br><br><br>
+
+
+<a id="ch6"><h3>📆 일정</h3></a>
     <hr>
 |   순번   | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
@@ -80,8 +86,3 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 |  10  | 2023년 3월 23일 | ZOOM | [김기용 : "DDPM"](2023_03_23/DDPM.pdf) <br> [정인용 : "UniMed : Multimodal Multitask Learning for Medical Predictions"](2023_03_23/UniMed_Multimodal_Multitask_Learning_for_Medical_Predictions.pdf) | 
 |  11  | 2023년 4월 6일 | ZOOM | [김재욱 : "Eyeriss"](2023_04_06/Eyeriss.pdf) <br> [박용주 : "Deep Knowledge Tracing"](2023_04_06/AIED_DKT.pptx) | 
 
-<br><br>
-
-
-<a id="ch6"><h3>📣 공지사항</h3></a>
-<hr>
