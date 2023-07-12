@@ -88,4 +88,4 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 |  12  | 2023년 5월 11일 | BLUEWORKS 안암점 | 프로젝트 성과 공유회 | 
 |  13  | 2023년 5월 18일 | ZOOM | [백강현 : "NANSY"](2023_05_18/NANSY.pdf) | 
 |  14  | 2023년 5월 25일 | ZOOM | 프로젝트 성과 공유회 | 
-|  15  | 2023년 6월 1일 | ZOOM | [박용주 : "_"]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]()|
+|  15  | 2023년 6월 1일 | ZOOM | [박용주 : ""]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]()|
