@@ -65,7 +65,7 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch5"><h3>📣 공지사항</h3></a>
 <hr>
-시험기간으로 인해, 4월 마지막 주부터 재개할 예정입니다.
+(2023.06.21) OUTTA Bootcamp로 인해, 개강 후 재개하도록 하겠습니다.
 <br><br><br>
 
 
