@@ -87,6 +87,6 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 |  10  | 2023년 3월 23일 | ZOOM | [김기용 : "DDPM"](2023_03_23/DDPM.pdf) <br> [정인용 : "UniMed : Multimodal Multitask Learning for Medical Predictions"](2023_03_23/UniMed.pdf) | 
 |  11  | 2023년 4월 6일 | ZOOM | [김재욱 : "Eyeriss"](2023_04_06/Eyeriss.pdf) <br> [박용주 : "Deep Knowledge Tracing"](2023_04_06/AIED_DKT.pptx) | 
 |  12  | 2023년 5월 11일 | BLUEWORKS 안암점 | 프로젝트 성과 공유회 | 
-|  13  | 2023년 5월 18일 | ZOOM | [백강현 : "NANSY"](2023_05_18/NANSY.pdf) <br> [정인용 : ""]() | 
+|  13  | 2023년 5월 18일 | ZOOM | [백강현 : "NANSY"](2023_05_18/NANSY.pdf) <br> [김기용 : ""]() | 
 |  14  | 2023년 5월 25일 | ZOOM | 프로젝트 성과 공유회 | 
-|  15  | 2023년 6월 1일 | ZOOM | [박용주 : ""]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]()|
+|  15  | 2023년 6월 1일 | ZOOM | [박용주 : ""]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]() |
