@@ -66,19 +66,20 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 
 <a id="ch5"><h3>📣 공지사항</h3></a>
 <hr>
-(2022.11) 2022-2분기 스터디 시작
-(2022.02) 2022-2분기 스터디 종료
+(2022.11) 2022-2분기 스터디 시작<br>
+(2022.02) 2022-2분기 스터디 종료<br>
 <br>
 
-(2023.03) 2023-1분기 스터디 시작
-(2023.04) 중간고사로 인해, 중간고사 종료 후 재개
-(2023.06) 기말고사로 인해, 기말고사 종료 후 재개
-(2023.07) OUTTA Bootcamp로 인해, OUTTA Bootcamp 종료 후 재개
-<br><br><br>
+(2023.03) 2023-1분기 스터디 시작<br>
+(2023.04) 중간고사로 인해, 중간고사 종료 후 재개<br>
+(2023.06) 기말고사로 인해, 기말고사 종료 후 재개<br>
+(2023.07) OUTTA Bootcamp로 인해, OUTTA Bootcamp 종료 후 재개<br>
+<br><br>
 
 
 <a id="ch6"><h3>📆 일정</h3></a>
     <hr>
+### (2022-2분기) OUTTA 논문 리뷰 스터디 
 |   순번   | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
 | --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
 |  01  | 2022년 11월 20일 | 강남역 공간이즈 스터디룸 11호 | [최민동: "Understanding Graph Neural Network"](2022_11_20/Understanding_Graph_Neural_Network.pdf) | 
@@ -90,10 +91,15 @@ Computer Vision, NLP, Reinforcement learning, Serial Forecasting, etc. 분야의
 |  06  | 2023년 1월 19일 | ZOOM<br>강남역 스페이스101 | [권범윤 : "Fundamentals Of NLP"](2023_01_19/Fundametals_Of_NLP.pdf)<br> [황주훈 : "RNN LSTM GRU"](2023_01_19/RNN_LSTM_GRU.pdf)<br> [최민동 : "Attention Is All You Need"](2023_01_19/Attention_Is_All_You_Need.pdf) | 
 |  07  | 2023년 2월 12일 | ZOOM | [최민동 : "GPT"](2023_02_12/language_understanding_paper.pdf) <br> [한나경 : "BERT"](2023_02_12/BERT.pdf)| 
 |  08  | 2023년 2월 19일 | ZOOM | [백승우 : "VALL-E"](2023_02_19/VALL-E_PPT.pdf) <br> [이세라 : "Scalable Neural Video Representations with Learnable Positional Features"](2023_02_19/Scalable%20Neural%20Video%20Representations%20with%20Learnable%20Positional%20Features.pdf) | 
-|  09  | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf) <br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
-|  10  | 2023년 3월 23일 | ZOOM | [김기용 : "DDPM"](2023_03_23/DDPM.pdf) <br> [정인용 : "UniMed : Multimodal Multitask Learning for Medical Predictions"](2023_03_23/UniMed.pdf) | 
-|  11  | 2023년 4월 6일 | ZOOM | [김재욱 : "Eyeriss"](2023_04_06/Eyeriss.pdf) <br> [박용주 : "Deep Knowledge Tracing"](2023_04_06/AIED_DKT.pptx) | 
-|  12  | 2023년 5월 11일 | BLUEWORKS 안암점 | 프로젝트 성과 공유회 | 
-|  13  | 2023년 5월 18일 | ZOOM | [백강현 : "NANSY"](2023_05_18/NANSY.pdf) <br> [김기용 : ""]() | 
-|  14  | 2023년 5월 25일 | ZOOM | 프로젝트 성과 공유회 | 
-|  15  | 2023년 6월 1일 | ZOOM | [박용주 : ""]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]() |
+<br>
+
+### (2023-1분기) OUTTA 논문 리뷰 스터디 
+|   순번   | 일시            | 장소                | 발표자 및 주제                                                                                                                                                                                                  |  
+| --- |---------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
+|  01  | 2023년 3월 15일 | 어라운드스터디카페 금호점 | [백승우 : "StyleGAN"](2023_03_15/StyleGAN.pdf) <br> [백강현 : "Auto-Encoding Variational Bayes"](2023_03_15/VAE.pdf) | 
+|  02  | 2023년 3월 23일 | ZOOM | [김기용 : "DDPM"](2023_03_23/DDPM.pdf) <br> [정인용 : "UniMed : Multimodal Multitask Learning for Medical Predictions"](2023_03_23/UniMed.pdf) | 
+|  03  | 2023년 4월 6일 | ZOOM | [김재욱 : "Eyeriss"](2023_04_06/Eyeriss.pdf) <br> [박용주 : "Deep Knowledge Tracing"](2023_04_06/AIED_DKT.pptx) | 
+|  04  | 2023년 5월 11일 | BLUEWORKS 안암점 | 프로젝트 성과 공유회 | 
+|  95  | 2023년 5월 18일 | ZOOM | [백강현 : "NANSY"](2023_05_18/NANSY.pdf) <br> [김기용 : ""]() | 
+|  06  | 2023년 5월 25일 | ZOOM | 프로젝트 성과 공유회 | 
+|  07  | 2023년 6월 1일 | ZOOM | [박용주 : ""]() <br> [백승우 : "VATT"](2023_06_01/VATT_PPT.pdf) <br> [정인용: ""]() |
