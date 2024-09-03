@@ -1,4 +1,4 @@
-![OUTTA Paper Review Study](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OUTTA%20Paper%20Review%20Study&height=150&fontSize=60&desc=We%20Review%20Various%20Papers%20about%20Deep%20Learning&descAlignY=76&descAlign=50)  
+![Paper Review Study](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=OUTTA%20Paper%20Review%20Study&height=150&fontSize=60&desc=We%20Review%20Various%20Papers%20about%20Deep%20Learning&descAlignY=76&descAlign=50)  
 <br>
 
 
