@@ -16,7 +16,7 @@ OUTTA 논문 리뷰 스터디입니다.<br><br>
 
 2022-2분기 [2022-11 ~ 2023-02] <br>
 2023-1분기 [2023-03 ~ 2023-06] <br>
-2023-2분기 [2022-09 ~ ] <br><br>
+2023-2분기 [2022-09 ~ 2024-02] <br><br>
 
 Computer Vision, NLP, Reinforcement Learning, Time-series Forecasting 등 다양한 딥러닝 분야의 논문을 리뷰합니다.<br><br>
 
